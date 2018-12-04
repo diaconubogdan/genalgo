@@ -8,12 +8,12 @@ Pm - numar foarte mic utilizat la mutatie
 timp - numarul de secunde pentru a rula algoritmul  
     
 Structuri:  
-crimizom:  
-	genotip - sir binar de lungime G  
-	fenotip - numar calculat dupa formula a + (b - a) * geno2dec()/(pow(2, G) - 1) - reprezinta minimul pe care il cautam  
-	fitness - numar calculat dupa formula 1 / y(fenotip) - reprezinta un "scor" pentru a putea evalua performanta cromozomilor  
+cromozom:  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;genotip - sir binar de lungime G  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fenotip - numar calculat dupa formula a + (b - a) * geno2dec()/(pow(2, G) - 1) - reprezinta minimul pe care il cautam  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fitness - numar calculat dupa formula 1 / y(fenotip) - reprezinta un "scor" pentru a putea evalua performanta cromozomilor  
 populatie:  
-	cromozomi - populatie de N cromozomi  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cromozomi - populatie de N cromozomi  
   
 Functii:  
 randoms() - random subunitar  
