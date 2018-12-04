@@ -17,3 +17,6 @@ crimizom:<br>
 <br><br>
 Functii:<br>
 randoms() - random subunitar<br>
+incrucisare_intrun_punct() - interschimba genotipul intre generatii de la un punct aleator. Spre exemplu, intre 2 genotipuri 0000 si 1111, din incrucisarea in punctul 1 rezulta 0011 si 1100<br>
+mutatie() - este o sansa ca o gena din genotip sa isi schimbe valoarea<br>
+selectie() - transforma o parte din populatia curenta in parinti pentru urmatoarea populatie
