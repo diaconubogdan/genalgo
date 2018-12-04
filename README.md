@@ -1,6 +1,6 @@
 Constante:
 
-[a, b] - intervalul utilizat pentru calcularea fenotipului
+[a, b] - intervalul utilizat pentru calcularea fenotipului<br>
 G - lungimea genotipului
 N - numarul de cromozomi
 E - numarul de epoci
