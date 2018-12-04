@@ -1,3 +1,5 @@
+Exemplul actual este pentru x^2 - 1<br><br>
+
 Constante:<br><br>
 
 [a, b] - intervalul utilizat pentru calcularea fenotipului<br>
